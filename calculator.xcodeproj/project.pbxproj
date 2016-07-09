@@ -14,6 +14,7 @@
 		CEB7719F1D304600000BF0F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB7719D1D304600000BF0F9 /* LaunchScreen.storyboard */; };
 		CEB771AA1D304600000BF0F9 /* calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB771A91D304600000BF0F9 /* calculatorTests.swift */; };
 		CEB771B51D304600000BF0F9 /* calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB771B41D304600000BF0F9 /* calculatorUITests.swift */; };
+		CEB771C31D30BD7F000BF0F9 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = CEB771C21D30BD7F000BF0F9 /* btn.wav */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CEB771B01D304600000BF0F9 /* calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB771B41D304600000BF0F9 /* calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculatorUITests.swift; sourceTree = "<group>"; };
 		CEB771B61D304600000BF0F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEB771C21D30BD7F000BF0F9 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				CEB771941D304600000BF0F9 /* AppDelegate.swift */,
+				CEB771C21D30BD7F000BF0F9 /* btn.wav */,
 				CEB771961D304600000BF0F9 /* ViewController.swift */,
 				CEB771981D304600000BF0F9 /* Main.storyboard */,
 				CEB7719B1D304600000BF0F9 /* Assets.xcassets */,
@@ -231,6 +234,7 @@
 				CEB7719F1D304600000BF0F9 /* LaunchScreen.storyboard in Resources */,
 				CEB7719C1D304600000BF0F9 /* Assets.xcassets in Resources */,
 				CEB7719A1D304600000BF0F9 /* Main.storyboard in Resources */,
+				CEB771C31D30BD7F000BF0F9 /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
